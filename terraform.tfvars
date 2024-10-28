@@ -1,0 +1,6 @@
+rg_name             = "MyUniqueResourceGroupName"
+location            = "East US"
+admin_username      = "myAdmin"
+admin_password      = "SuperSecurePassword123!"
+sql_admin_username  = "sqlAdmin"
+sql_admin_password  = "AnotherSuperSecurePassword456!"
